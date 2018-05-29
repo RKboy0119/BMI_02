@@ -1,0 +1,34 @@
+﻿<Window x:Class="BMI_123456.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_123456"
+        mc:Ignorable="d"
+        Title="BMI_計算機" Height="550" Width="600">
+    <Grid>
+        <StackPanel Margin="20" Width="530">
+            <TextBlock FontSize="30" Foreground="LightBlue" Margin="200 0 0 20">Height</TextBlock>
+            <Canvas Width="530" Height="37" Background="PaleGreen">
+                <Border CornerRadius="10" Background="LightBlue" x:Name="Height">
+                    <TextBlock x:Name="HeightNumber" Width="100" TextAlignment="Center" Padding="0 10">0</TextBlock>
+                </Border>
+            </Canvas>
+            <Slider Minimum="0" Maximum="200" Background="PaleGreen" x:Name="HeightSlider" ValueChanged="HeightSlider_ValueChanged" ></Slider>
+            <TextBlock FontSize="30" Foreground="LightBlue" Margin="200 30 0 20">Weight</TextBlock>
+            <Canvas Width="530" Height="37" Background="PaleGreen">
+                <Border CornerRadius="8" Background="LightBlue" x:Name="Weight">
+                    <TextBlock x:Name="WeightNumber" Width="100" TextAlignment="Center" Padding="0 10">0</TextBlock>
+                </Border>
+            </Canvas>
+            <Slider Minimum="0" Maximum="100" Background="PaleGreen" x:Name="WeightSlider" ValueChanged="WeightSlider_ValueChanged"></Slider>
+            <TextBlock FontSize="30" Margin="211 50 0 0" Foreground="LightBlue">Result</TextBlock>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontSize="70" x:Name="BmiNumber1" Foreground="RosyBrown" Margin="215 10 0 0">0</TextBlock>
+                <TextBlock FontSize="40" Margin="1 40 0 0" x:Name="BmiNumber2" Foreground="RosyBrown">.0</TextBlock>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

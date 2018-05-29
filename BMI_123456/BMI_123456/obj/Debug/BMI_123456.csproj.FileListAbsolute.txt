@@ -1,0 +1,14 @@
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\MainWindow.g.cs
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\App.g.cs
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456_MarkupCompile.cache
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456_MarkupCompile.lref
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\bin\Debug\BMI_123456.exe.config
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\bin\Debug\BMI_123456.exe
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\bin\Debug\BMI_123456.pdb
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\MainWindow.baml
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.g.resources
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.Properties.Resources.resources
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.csproj.GenerateResource.Cache
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.csproj.CoreCompileInputs.cache
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.exe
+D:\程式作業\WPF\拉條\BMI_123456\BMI_123456\obj\Debug\BMI_123456.pdb
